@@ -1,0 +1,6 @@
+SampleID,Depth_m,Temperature_C,SpeciesID,CellCount
+PL001,10,-15.5,pseudomonas sp.,1200
+PL002,12,-16.2,Pseudomonas sp.,980
+PL003,8,-14.8,Shewanella sp.,540
+PL004,15,-17.1,Colwellia sp.,2100
+PL005,11,-15.9,pseudomonas sp.,870
